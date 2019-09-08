@@ -21,8 +21,12 @@ This repository contains a tool I made that takes 2 inputs:
 
 ```python
 4
-.6
+0.6
 ```
+#### Sample Output
+```
+native-country=United-States,race=White,capital-gain=None,capital-loss=None
+native-country=United-States,income=Small,capital-gain=None,capital-loss=None
 
 </p>
 </details>
