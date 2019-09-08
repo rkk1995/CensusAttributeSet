@@ -11,7 +11,7 @@ This repository contains a tool I made that finds patterns that help make import
 * There are 8 people with (_native-country=United-States,capital-loss=None_)
 
 The support of the set of attributes is defined as the ratio of "total number of records with the given attributes" to "total number of records in the dataset." For example:
-* The support of (_capital-gain=None,capital-loss=None_) is $\frac{7}{10}$ 
+* The support of (_capital-gain=None,capital-loss=None_) is 7/10
 
 
 
