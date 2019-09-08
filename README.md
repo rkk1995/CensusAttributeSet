@@ -4,8 +4,18 @@
 ### First 5 entries. ~32000 total
 ![test](http://puu.sh/EeDZd/350b3ccd7d.png)
 
-This repository contains a tool I made that takes 2 inputs:
-  
+This repository contains a tool I made that finds patterns that help make important data-driven decisions. For example out of the first 10 lines:
+* There are 7 people with (_capital-gain=None,capital-loss=None_)
+* There are 5 people with (_native-country=United-States,capital-gain=None,capital-loss=None_)
+* There are 5 people with (_native-country=United-States,capital-gain=None_)
+* There are 8 people with (_native-country=United-States,capital-loss=None_)
+
+The support of the set of attributes is defined as the ratio of "total number of records with the given attributes" to "total number of records in the dataset." For example:
+* The support of (_capital-gain=None,capital-loss=None_) is $\frac{7}{10}$ 
+
+
+
+
   ##### parameters
   _numberofAttributes_: an integer
   _supportThreshold_: a float
