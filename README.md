@@ -27,6 +27,6 @@ This repository contains a tool I made that takes 2 inputs:
 ```
 native-country=United-States,race=White,capital-gain=None,capital-loss=None
 native-country=United-States,income=Small,capital-gain=None,capital-loss=None
-
+```
 </p>
 </details>
