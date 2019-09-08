@@ -25,6 +25,7 @@ Finds all the unique attribute sets of the given length that have the support gr
 
   #### parameters
   _numberofAttributes_: an integer
+  
   _supportThreshold_: a float
   
   #### constraints
@@ -45,4 +46,5 @@ Finds all the unique attribute sets of the given length that have the support gr
 native-country=United-States,race=White,capital-gain=None,capital-loss=None
 native-country=United-States,income=Small,capital-gain=None,capital-loss=None
 ```
+
 
