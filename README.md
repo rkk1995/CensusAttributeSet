@@ -23,11 +23,11 @@ Finds all the unique attribute sets of the given length that have hte support gr
 
 
 
-  ##### parameters
+  #### parameters
   _numberofAttributes_: an integer
   _supportThreshold_: a float
   
-  ##### constraints
+  #### constraints
   1<= _numberofAttributes_ <= # of features
   
   0<= _supportThreshold_ <= 1.0
