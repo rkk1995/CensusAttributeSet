@@ -14,8 +14,7 @@ This repository contains a tool I made that takes 2 inputs:
   1<= _numberofAttributes_ <= # of features
   0<= _supportThreshold_ <= 1.0
 
-<details><summary>Sample Case</summary>
-<p>
+### Sample Case
 
 #### Sample Input
 
@@ -28,5 +27,4 @@ This repository contains a tool I made that takes 2 inputs:
 native-country=United-States,race=White,capital-gain=None,capital-loss=None
 native-country=United-States,income=Small,capital-gain=None,capital-loss=None
 ```
-</p>
-</details>
+
