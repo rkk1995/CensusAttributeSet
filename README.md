@@ -14,13 +14,14 @@ This repository contains a tool I made that takes 2 inputs:
   1<= _numberofAttributes_ <= # of features
   0<= _supportThreshold_ <= 1.0
 
-<details><summary>CLICK ME</summary>
+<details><summary>Sample Case</summary>
 <p>
 
-#### yes, even hidden code blocks!
+#### Sample Input
 
 ```python
-print("hello world!")
+4
+.6
 ```
 
 </p>
