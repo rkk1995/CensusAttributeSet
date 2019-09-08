@@ -47,3 +47,4 @@ native-country=United-States,race=White,capital-gain=None,capital-loss=None
 native-country=United-States,income=Small,capital-gain=None,capital-loss=None
 ```
 
+
