@@ -17,7 +17,7 @@ The support of the set of attributes is defined as the ratio of "total number of
 * The support of (_native-country=United-States,capital-loss=None_) is 8/10 = .8
 
 ### Function
-Finds all the unique attribute sets of the given length that have hte support greater than or equal to the given support threshold value.
+Finds all the unique attribute sets of the given length that have the support greater than or equal to the given support threshold value.
 
 
 
