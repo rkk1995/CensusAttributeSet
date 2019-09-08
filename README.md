@@ -12,6 +12,7 @@ This repository contains a tool I made that takes 2 inputs:
   
   ##### constraints
   1<= _numberofAttributes_ <= # of features
+  
   0<= _supportThreshold_ <= 1.0
 
 ### Sample Case
