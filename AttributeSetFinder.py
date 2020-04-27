@@ -28,7 +28,6 @@ required = math.ceil(supportThreshold*total)
 
 for i in combinations:
     g = c.groupby(i).size().sort_values(ascending=False)
-    g
     groups = g[g>required].index    
     satisfied = list(groups)
     for j in satisfied:
